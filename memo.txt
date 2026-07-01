@@ -9,4 +9,8 @@ go run server/main.go
 # ターミナル2: クライアント実行
 go run client/main.go Alice
 
+-----------------------------------
 
+セットアップ
+
+go mod tidy
